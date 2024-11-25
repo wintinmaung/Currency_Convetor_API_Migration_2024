@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rates ts="2024 11 25 13:17:18" base="GBP">
+  <currency rate="1.928973" live="1">
+    <code>AUD</code>
+    <name>Australian Dollar</name>
+    <loc>AUSTRALIA, CHRISTMAS ISLAND, COCOS (KEELING) ISLANDS (THE), HEARD ISLAND AND McDONALD ISLANDS, KIRIBATI, NAURU, NORFOLK ISLAND, TUVALU</loc>
+  </currency>
+  <currency rate="6.256916" live="1">
+    <code>BRL</code>
+    <name>Brazilian Real</name>
+    <loc>BRAZIL</loc>
+  </currency>
+  <currency rate="1.699414" live="1">
+    <code>CAD</code>
+    <name>Canadian Dollar</name>
+    <loc>CANADA</loc>
+  </currency>
+  <currency rate="1.110212" live="1">
+    <code>CHF</code>
+    <name>Swiss Franc</name>
+    <loc>LIECHTENSTEIN, SWITZERLAND</loc>
+  </currency>
+  <currency rate="8.970075" live="1">
+    <code>CNY</code>
+    <name>Yuan Renminbi</name>
+    <loc>CHINA</loc>
+  </currency>
+  <currency rate="8.717327" live="1">
+    <code>DKK</code>
+    <name>Danish Krone</name>
+    <loc>DENMARK, FAROE ISLANDS (THE), GREENLAND</loc>
+  </currency>
+  <currency rate="1.169445" live="1">
+    <code>EUR</code>
+    <name>Euro</name>
+    <loc>ÅLAND ISLANDS, ANDORRA, AUSTRIA, BELGIUM, CROATIA, CYPRUS, ESTONIA, EUROPEAN UNION, FINLAND, FRANCE, FRENCH GUIANA, FRENCH SOUTHERN TERRITORIES (THE), GERMANY, GREECE, GUADELOUPE, HOLY SEE (THE), IRELAND, ITALY, LATVIA, LITHUANIA, LUXEMBOURG, MALTA, MARTINIQUE, MAYOTTE, MONACO, MONTENEGRO, NETHERLANDS (THE), PORTUGAL, RÉUNION, SAINT BARTHÉLEMY, SAINT MARTIN (FRENCH PART), SAINT PIERRE AND MIQUELON, SAN MARINO, SLOVAKIA, SLOVENIA, SPAIN</loc>
+  </currency>
+  <currency rate="9.856292" live="1">
+    <code>HKD</code>
+    <name>Hong Kong Dollar</name>
+    <loc>HONG KONG</loc>
+  </currency>
+  <currency rate="455.340326" live="1">
+    <code>HUF</code>
+    <name>Forint</name>
+    <loc>HUNGARY</loc>
+  </currency>
+  <currency rate="104.590261" live="1">
+    <code>INR</code>
+    <name>Indian Rupee</name>
+    <loc>BHUTAN, INDIA</loc>
+  </currency>
+  <currency rate="189.30632" live="1">
+    <code>JPY</code>
+    <name>Yen</name>
+    <loc>JAPAN</loc>
+  </currency>
+  <currency rate="21.488996" live="1">
+    <code>MXN</code>
+    <name>Mexican Peso</name>
+    <loc>MEXICO</loc>
+  </currency>
+  <currency rate="6.023279" live="1">
+    <code>MYR</code>
+    <name>Malaysian Ringgit</name>
+    <loc>MALAYSIA</loc>
+  </currency>
+  <currency rate="13.242348" live="1">
+    <code>NOK</code>
+    <name>Norwegian Krone</name>
+    <loc>BOUVET ISLAND, NORWAY, SVALBARD AND JAN MAYEN</loc>
+  </currency>
+  <currency rate="2.056856" live="1">
+    <code>NZD</code>
+    <name>New Zealand Dollar</name>
+    <loc>COOK ISLANDS (THE), NEW ZEALAND, NIUE, PITCAIRN, TOKELAU</loc>
+  </currency>
+  <currency rate="70.481962" live="1">
+    <code>PHP</code>
+    <name>Philippine Peso</name>
+    <loc>PHILIPPINES (THE)</loc>
+  </currency>
+  <currency rate="116.543804" live="1">
+    <code>RUB</code>
+    <name>Russian Ruble</name>
+    <loc>RUSSIAN FEDERATION (THE)</loc>
+  </currency>
+  <currency rate="13.15411" live="1">
+    <code>SEK</code>
+    <name>Swedish Krona</name>
+    <loc>SWEDEN</loc>
+  </currency>
+  <currency rate="1.695992" live="1">
+    <code>SGD</code>
+    <name>Singapore Dollar</name>
+    <loc>SINGAPORE</loc>
+  </currency>
+  <currency rate="45.385687" live="1">
+    <code>THB</code>
+    <name>Baht</name>
+    <loc>THAILAND</loc>
+  </currency>
+  <currency rate="38.858045" live="1">
+    <code>TRY</code>
+    <name>Turkish Lira</name>
+    <loc>TÜRKİYE</loc>
+  </currency>
+  <currency rate="1.260128" live="1">
+    <code>USD</code>
+    <name>US Dollar</name>
+    <loc>AMERICAN SAMOA, BONAIRE, SINT EUSTATIUS AND SABA, BRITISH INDIAN OCEAN TERRITORY (THE), ECUADOR, EL SALVADOR, GUAM, HAITI, MARSHALL ISLANDS (THE), MICRONESIA (FEDERATED STATES OF), NORTHERN MARIANA ISLANDS (THE), PALAU, PANAMA, PUERTO RICO, TIMOR-LESTE, TURKS AND CAICOS ISLANDS (THE), UNITED STATES MINOR OUTLYING ISLANDS (THE), UNITED STATES OF AMERICA (THE), VIRGIN ISLANDS (BRITISH), VIRGIN ISLANDS (U.S.)</loc>
+  </currency>
+  <currency rate="23.774637" live="1">
+    <code>ZAR</code>
+    <name>Rand</name>
+    <loc>LESOTHO, NAMIBIA, SOUTH AFRICA</loc>
+  </currency>
+  <currency rate="1.0" live="1">
+    <code>GBP</code>
+    <name>Pound Sterling</name>
+    <loc>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE), ISLE OF MAN, JERSEY, GUERNSEY</loc>
+  </currency>
+</rates>
